@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SONU KUMAR SINGH</h1>
 <h3 align="center">I'm a passionate Data Analyst with a knack for turning raw data into actionable insights. My expertise lies in data visualization, statistical analysis, and storytelling through data.</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1715817600&v=beta&t=Wwor3WhDdxnosjzIc1a5UYNiZfFCuSAdGj1viKcs598">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonus5418&label=Profile%20views&color=0e75b6&style=flat" alt="sonus5418" /> </p>
 
 - 🔭 I’m currently working on **Exploring data from various sources to uncover trends and patterns that drive business decisions.**
